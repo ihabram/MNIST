@@ -2,3 +2,4 @@ fastapi
 numpy
 torch
 uvicorn
+python-multipart
